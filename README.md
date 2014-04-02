@@ -1,0 +1,3 @@
+NodeChat is a chat application, using node.js and socket.io.  It allows for users to join multiple rooms using /join (or leave them using /leave), chatting in those rooms independently with a live-updated list of the users in that rooms.  Rooms can be switched between by clicking on tabs.  Users can change their nicknames using /nick.
+
+To use NodeChat, the server must run server.js using node.  Clients can then point their browser to index.html on the server's IP to begin chatting.
